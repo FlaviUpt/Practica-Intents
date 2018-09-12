@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sent App</string>
+    <string name="str_send">SEND</string>
+    <string name="str_msg">White a Message</string>
+    <string name="send_to">Send to</string>
+</resources>
